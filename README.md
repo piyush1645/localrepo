@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first repository
 <br>
-author - piyush mevada
+author - piyush mevada(gec bhavnagar)
